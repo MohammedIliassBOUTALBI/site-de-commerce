@@ -1,0 +1,13 @@
+Notice d'organisation;
+
+♦la base de donnees des articles : csv_db 6
+
+♦les pages d'articles particulier (robes femme, vests homme,...) ont une extension HTML.
+
+♦tout les informations d'articles sont regrouper dans la table: 'articleshomme' .
+
+♦aucune modifications PHP n'a ete ajouter au travail de @Mohamed_Derdour.
+
+♦la bar de recherche affiche les resulat ayant relation avec le nom du model ET d'apres le sexe d'articles de la page actuel.
+
+♦ ◘
